@@ -1,4 +1,10 @@
 Nexus
+![Uploading Screenshot from 2024-08-03 08-02-54.png…]()
+![Uploading Screenshot from 2024-08-03 08-02-43.png…]()
+![Uploading Screenshot from 2024-08-03 08-02-26.png…]()
+
+
+
 
 Welcome to Nexus, a dynamic and interactive web application designed to provide seamless user experiences. This project leverages modern web development technologies to create a robust and scalable platform.
 Table of Contents
