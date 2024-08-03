@@ -72,6 +72,6 @@ Contact
 
 For any inquiries or feedback, please reach out to:
 
-    Shubham Tiwari - shubham-dev-tiwari
+    Shubham Tiwari - shubhamtiwaridevlog@gmail.com
 
 Thank you for using Nexus! We hope you find it valuable and enjoyable to use.
