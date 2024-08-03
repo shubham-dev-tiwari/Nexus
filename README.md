@@ -1,6 +1,9 @@
 Nexus
 
-![Screenshot from 2024-08-03 08-02-54](https://github.com/user-attachments/assets/dd7bda9b-728a-4669-b305-531a2eeb557e)
+
+![Screenshot from 2024-08-03 08-02-26](https://github.com/user-attachments/assets/884faf6a-6c3a-4e26-ac68-b71e8cf5136c)
+
+
 
 
 
